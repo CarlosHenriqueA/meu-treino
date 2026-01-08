@@ -3,5 +3,15 @@ Descricao inicial do projeto
 
 
 
-\#mudando meu treino para aeróbico, e deois salvando um coomit e fundido com main.
+
+
+\#teste
+
+mudando meu treino para aeróbico, e depois salvando um coomit e fundido com main.
+
+
+
+\#treino-pesado
+
+pegue muito supino de 140kg foi insano!
 
