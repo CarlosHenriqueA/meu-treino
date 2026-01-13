@@ -1,14 +1,6 @@
-\#Meu treino raiz
+\#outra academia
 Descricao inicial do projeto
 
-\#teste
-mudando meu treino para aeróbico, e depois salvando um coomit e fundido com main.
+\#mudei de academia
+Mudei de academia e vendo os equipamentos novos
 
-\#treino-pesado
-pegue muito supino de 140kg foi insano!
-
-\#Treino leve
-pegue peso leve devido a dores no corpo.
-
-\#treino-levissimo
-Usando isometria muscular.
