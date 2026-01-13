@@ -1,15 +1,9 @@
 \#Meu treino raiz
 Descricao inicial do projeto
 
-
-
-
-
 \#teste
 
 mudando meu treino para aeróbico, e depois salvando um coomit e fundido com main.
-
-
 
 \#treino-pesado
 
